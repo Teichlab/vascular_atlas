@@ -9,6 +9,6 @@ Data can be explored interactively and dowloaded at https://www.vascularcellatla
 
 **Citing**
 
-The link will be provided soon!
+Barnett, S.N., Cujba, AM., Yang, L. et al. An organotypic atlas of human vascular cells. Nat Med (2024). https://doi.org/10.1038/s41591-024-03376-x
 
-Thank you! :) 
+Thank you!
