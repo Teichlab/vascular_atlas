@@ -1,5 +1,5 @@
-# vascular_atlas
-Repo with analysis code for the vascular atlas paper 
+# An organotypic atlas of human vascular cells
+Repo with analysis code for the cross-tissue vascular atlas paper 
 
 This repository contains the analysis code reported in the vascular atlas manuscript.
 
